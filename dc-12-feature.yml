@@ -1,4 +1,4 @@
-## docker-compose -f ./dc-12-client-telemetry.yml up -d
+## docker-compose -f ./dc-12-feature.yml up -d
 version: "3.7"
 
 
